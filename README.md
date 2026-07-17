@@ -31,12 +31,12 @@ Para explorar o ejecutar este proyecto de forma local, debe seguir los siguiente
 
 1. **Clonar este repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/allisoftware18/SOFT-09_documentacion.git
    ```
 
 2. **Navegar al directorio del proyecto:**
    ```bash
-   cd nombre-del-proyecto
+   cd SOFT-09_documentacion
    ```
 
 3. **Visualizacion:**
